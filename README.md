@@ -7,8 +7,8 @@
 
 - I have 6 years of experience working with classical Machine Learining, Computer Vison and Reinforcement Learning.
 - I'm inventor of 3 patents. Check my [Google Scholar][gscholar] profile
-- I currently work @ TomTom where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
-- I have previously worked @ HERE (owned by consortium of Audi, BMW & Daimler)
+- I currently work @ [TomTom][tomtom] where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
+- I have previously worked @ [HERE][here] (owned by consortium of Audi, BMW & Daimler)
 - I have an integrated Masters in Mathematics and Bachelor of Engineering in EEE from [BITS Pilani][college]
 - I create free educational content about Python, Maths and Machine Learning
 - The corresponding code for my tutorials is here on GitHub
@@ -29,7 +29,8 @@
 [linkedin]: https://www.linkedin.com/in/akshay-pachaar/
 [gscholar]: https://t.co/bXt52nTE08
 [college]: https://www.bits-pilani.ac.in/
-
+[tomtom]: https://www.tomtom.com/en_in/
+[here]: https://www.here.com/
 ---
 
 ## Connect With Me:
