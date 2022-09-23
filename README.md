@@ -1,14 +1,15 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Akshay
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIN&logoColor=white" />][linkedin]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-
+<a href="https://twitter.com/akshay_pachaar"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+[<img height="30" src = "https://img.shields.io/badge/MLSpring-my%20blog-brightgreen">][website] 
+&ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
 ## I'm a Sr. Data Scientist
 
-- I have 6 years of experience working with classical Machine Learining, computer vison and reinforcement learning.
-- I currently work work @ TomTom where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
-- I have previously worked @HERE (owned by consortium of Audi, BMW & Daimler)
+- I have 6 years of experience working with classical Machine Learining, Computer Vison and Reinforcement Learning.
+- I'm inventor of 3 patents. Check my [Google Scholar][gscholar] profile
+- I currently work @ TomTom where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
+- I have previously worked @ HERE (owned by consortium of Audi, BMW & Daimler)
+- I have an integrated Masters in Mathematics and Bachelor of Engineering in EEE from [BITS Pilani][college]
 - I create free educational content about Python, Maths and Machine Learning
 - The corresponding code for my tutorials is here on GitHub
 - I also post articles on my [Blog][website]
@@ -26,6 +27,8 @@
 [youtube]: https://www.youtube.com/channel/UCBdqxdnaItpG4RzV0o0w6kg
 [website]: https://mlspring.blog/
 [linkedin]: https://www.linkedin.com/in/akshay-pachaar/
+[gscholar]: https://t.co/bXt52nTE08
+[college]: https://www.bits-pilani.ac.in/
 
 ---
 
@@ -43,4 +46,4 @@ You can show support by starring my repos.
 
 Cheers!! 🍻 
 
-Thank you all so much 🙏
+Thank you so much 🙏
