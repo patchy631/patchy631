@@ -4,7 +4,7 @@
 [<img height="30" src = "https://img.shields.io/badge/MLSpring-my%20blog-brightgreen">][website] 
 &ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
-## I'm a Sr. Data Scientist
+## I'm a Lead Data Scientist
 
 - I have 6 years of experience working with classical Machine Learining, Computer Vison and Reinforcement Learning.
 - I'm inventor of 3 patents. Check my [Google Scholar][gscholar] profile
