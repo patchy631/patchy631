@@ -26,7 +26,7 @@
 
 [twitter]: https://twitter.com/akshay_pachaar
 [youtube]: https://www.youtube.com/channel/UCBdqxdnaItpG4RzV0o0w6kg
-[website]: https://mlspring.blog/
+[website]: https://mlspring.beehiiv.com/
 [linkedin]: https://www.linkedin.com/in/akshay-pachaar/
 [gscholar]: https://t.co/bXt52nTE08
 [college]: https://www.bits-pilani.ac.in/
