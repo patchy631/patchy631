@@ -8,7 +8,8 @@
 
 - I have 6 years of experience working with classical Machine Learining, Computer Vison and Reinforcement Learning.
 - I'm inventor of 3 patents. Check my [Google Scholar][gscholar] profile
-- I currently work @ [TomTom][tomtom] where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
+- I currently work at LightningAI ⚡️ as a Sr. AI Engineer & Developer advocate.
+- I previously worked @ [TomTom][tomtom] where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
 - I have previously worked @ [HERE][here] (owned by consortium of Audi, BMW & Daimler)
 - I have an integrated Masters in Mathematics and Bachelor of Engineering in EEE from [BITS Pilani][college]
 - I create free educational content about Python, Maths and Machine Learning
